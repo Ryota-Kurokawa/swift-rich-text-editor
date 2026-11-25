@@ -1,5 +1,5 @@
 import Testing
-@testable import swift_rich_text_editor
+@testable import SwiftRichTextEditor
 
 @Test func example() async throws {
     // Write your test here and use APIs like `#expect(...)` to check expected conditions.
