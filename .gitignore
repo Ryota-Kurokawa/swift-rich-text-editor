@@ -6,3 +6,9 @@ DerivedData/
 .swiftpm/configuration/registries.json
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 .netrc
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Xcode-generated package state (schemes are regenerated from Package.swift)
+.swiftpm/
