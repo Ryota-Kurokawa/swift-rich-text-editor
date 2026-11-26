@@ -61,7 +61,7 @@ struct NoteView: View {
 ## Requirements
 
 - iOS 17+ / macOS 14+
-- Swift 6.4+
+- Swift 6.2+
 
 ## Installation
 

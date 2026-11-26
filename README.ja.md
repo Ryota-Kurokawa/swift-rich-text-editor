@@ -62,7 +62,7 @@ struct NoteView: View {
 ## 動作要件
 
 - iOS 17 以降 / macOS 14 以降
-- Swift 6.4 以降
+- Swift 6.2 以降
 
 ## インストール
 
